@@ -3,3 +3,9 @@ div{
     height: 200px;
     background-color:brown;
 }
+.div2{
+    background-color: aqua;
+    width: 200px;
+    height:200px ;
+    border-radius: 20px;
+}
