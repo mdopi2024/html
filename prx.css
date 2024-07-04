@@ -1,0 +1,25 @@
+.two,div,.two{
+    width: 200px;
+    height: 200px;
+    background-color: cyan;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 30px;
+    padding:20px 15px ;
+    border-radius: 15px;
+    box-shadow: 15px 15px  15px gray;
+    
+
+}
+.two{
+    background-image: url(img\ flower.avif);
+    color: white;
+    background-size: 30px 30px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-position: right bottom;
+    background-position: right center;
+    background-position: left bottom;
+    background-position: left center;
+}
